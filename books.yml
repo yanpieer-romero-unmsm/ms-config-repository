@@ -1,0 +1,9 @@
+server:
+  port=: 3000
+
+spring:
+  application:
+    name: books
+
+offers:
+  discount: 45%

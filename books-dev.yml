@@ -1,0 +1,10 @@
+server:
+  port: 3000
+
+spring:
+  application:
+    name: books
+
+books:
+  welcome:
+    message: Hello books
