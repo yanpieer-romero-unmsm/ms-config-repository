@@ -2,7 +2,7 @@ server:
   port: 3001
 
 offers:
-  discount: 60%
+  discount: 55%
 
 management:
   endpoints:
