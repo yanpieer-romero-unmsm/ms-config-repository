@@ -2,7 +2,7 @@ server:
   port: 0
 
 offers:
-  discount: 95%
+  discount: 99%
 
 management:
   endpoints:
